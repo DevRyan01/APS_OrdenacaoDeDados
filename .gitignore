@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+dados_externos_*.txt
+resultados.csv
