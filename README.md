@@ -1,7 +1,6 @@
 # APS – Análise de performance de algoritmos de ordenação (C#)
 
-Versão em C# (.NET 8) do projeto original em C. Mesma lógica: Heap Sort, Merge Sort e Selection Sort,
-4 volumes (1.000, 10.000, 50.000, 100.000), 3 tipos de dado interno (aleatório, ordenado, semi-ordenado)
+Heap Sort, Merge Sort e Selection Sort, 4 volumes (1.000, 10.000, 50.000, 100.000), 3 tipos de dado interno (aleatório, ordenado, semi-ordenado)
 mais dado externo lido de arquivo, 5 repetições por combinação, 48 combinações no total, saída em
 `resultados.csv` e tabelas no terminal.
 
